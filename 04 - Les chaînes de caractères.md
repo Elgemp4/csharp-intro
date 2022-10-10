@@ -188,7 +188,7 @@ Demander une chaine de caractères et afficher le menu suivant :
 
 ```
 1. Afficher en majuscules
-2. Afficher en miniscules
+2. Afficher en minuscules
 3. Afficher sa longueur
 4. Quitter
 ```
@@ -200,7 +200,7 @@ Exemples de sorties :
 <pre>
 Quel est le mot ? <b>Hello</b>
 1. Afficher en majuscules
-2. Afficher en miniscules
+2. Afficher en minuscules
 3. Afficher sa longueur
 4. Quitter
 Votre choix : <b>1</b>
@@ -210,7 +210,7 @@ Hello en majuscules : HELLO
 <pre>
 Quel est le mot ? <b>Hello</b>
 1. Afficher en majuscules
-2. Afficher en miniscules
+2. Afficher en minuscules
 3. Afficher sa longueur
 4. Quitter
 Votre choix : <b>2</b>
@@ -220,7 +220,7 @@ Hello en minuscules : hello
 <pre>
 Quel est le mot ? <b>Hello</b>
 1. Afficher en majuscules
-2. Afficher en miniscules
+2. Afficher en minuscules
 3. Afficher sa longueur
 4. Quitter
 Votre choix : <b>3</b>
@@ -230,7 +230,7 @@ Hello a une longueur de 5
 <pre>
 Quel est le mot ? <b>Hello</b>
 1. Afficher en majuscules
-2. Afficher en miniscules
+2. Afficher en minuscules
 3. Afficher sa longueur
 4. Quitter
 Votre choix : <b>4</b>
@@ -239,7 +239,7 @@ Votre choix : <b>4</b>
 <pre>
 Quel est le mot ? <b>Hello</b>
 1. Afficher en majuscules
-2. Afficher en miniscules
+2. Afficher en minuscules
 3. Afficher sa longueur
 4. Quitter
 Votre choix : <b>unChoix</b>
@@ -265,7 +265,7 @@ public class Program
 
 		// afficahe du menu
 		Console.WriteLine("1. Afficher en majuscules");
-		Console.WriteLine("2. Afficher en miniscules");
+		Console.WriteLine("2. Afficher en minuscules");
 		Console.WriteLine("3. Afficher sa longueur");
 		Console.WriteLine("4. Quitter");
 		Console.Write("Votre choix : ");
